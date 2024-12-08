@@ -6,7 +6,7 @@ import MagicButton from "./MagicButton";
 import animationData from "@/data/confetti.json";
 import { IoCopyOutline } from "react-icons/io5";
 import dynamic from 'next/dynamic';
-import { Children, useState } from "react";
+import { useState } from "react";
 import { BackgroundBeams } from "./BackgroundBeams";
 import { Boxes } from "./BackgroundBoxes";
 
