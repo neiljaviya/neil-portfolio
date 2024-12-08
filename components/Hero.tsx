@@ -31,10 +31,10 @@ const Hero = () => {
             Neil Javiya 
           </p>
 
-          <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words='Machine Learning Enthusiast and Data Explorer' />
+          <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words='Data Explorer and Machine Learning Enthusiast' />
 
           <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-            Hello, I&apos;m Neil! Passionate about turning data into actionable insights and exploring the power of machine learning.
+            Hello, I&apos;m Neil! I specialize in transforming data into meaningful insights and leveraging machine learning to solve complex problems.
           </p>
 
           <a href="#about">
