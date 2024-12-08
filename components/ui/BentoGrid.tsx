@@ -50,8 +50,8 @@ export const BentoGridItem = ({
     spareImg?: string;
     id?: number;
 }) => {
-    const leftLists = ["AI/ML", "Python", "C++"];
-    const rightLists = ["PowerBI", "SQL", "SAS"];
+    const leftLists = ["Advanced Excel", "Python", "JS/React"];
+    const rightLists = ["PowerBI/Tableau", "SQL", "Agile Tools"];
     const [copied, setCopied] = useState(false);
     const Lottie = dynamic(() => import('react-lottie'), { ssr: false });
     const handleCopy = () => {
