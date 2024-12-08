@@ -15,7 +15,7 @@ const Footer = () => {
         </div>
         <div className='flex flex-col items-center'>
             <h1 className='heading lg:max-w-[45vw]'>
-                Let's connect to discuss how my expertise can support your goals.
+                Let's connect to discuss how my expertise can support your <span className='text-purple'>goals.</span>
             </h1>
             <p className='text-white-200 md:mt-10 my-5 text-center'>
                 Looking to <span className='text-purple'>optimize</span> your business operations, <span className='text-purple'>enhance</span> your data strategy, or <span className='text-purple'>build</span> efficient software solutions?
