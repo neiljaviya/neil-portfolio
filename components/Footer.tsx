@@ -15,10 +15,10 @@ const Footer = () => {
         </div>
         <div className='flex flex-col items-center'>
             <h1 className='heading lg:max-w-[45vw]'>
-                Looking to <span className='text-purple'>optimize</span> your business operations, <span className='text-purple'>enhance</span> your data strategy, or <span className='text-purple'>build</span> efficient software solutions?
+                Let's connect to discuss how my expertise can support your goals.
             </h1>
             <p className='text-white-200 md:mt-10 my-5 text-center'>
-                Let's connect to discuss how my expertise can support your goals.
+                Looking to <span className='text-purple'>optimize</span> your business operations, <span className='text-purple'>enhance</span> your data strategy, or <span className='text-purple'>build</span> efficient software solutions?
             </p>
             <a href='mailto:neiljaviya4@gmail.com'>
                 <MagicButton title='Let&apos;s get in touch' icon={<FaLocationArrow/>} position='right'/>
