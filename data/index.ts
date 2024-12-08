@@ -20,7 +20,7 @@ export const navItems = [
     {
       id: 2,
       title: "Exploring the world of Data Analytics",
-      description: "",
+      description: "Transforming Data into Insights with Python, Visualization, and Analytics Expertise",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -40,7 +40,7 @@ export const navItems = [
     {
       id: 4,
       title: "Project Management",
-      description: "Skilled in Agile, stakeholder management, and leading collaborative teams.",
+      description: "Delivering success through agile planning and collaboration.",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -74,7 +74,7 @@ export const navItems = [
     {
       id: 1,
       title: "Stock Trend Prediction",
-      des: "Built a web app for stock trend prediction using an LSTM model, integrating data visualizations, future price predictions, and an interactive UI.",
+      des: "Built an LSTM model in Python to forecast stock trends, incorporating real-time data visualization and predictive analysis.",
       img: "",
       iconLists: ["/python.svg", "/pandas.svg", "/numpy.svg", "/streamlit.svg", "/tensorflow.svg"],
       link: "https://github.com/neiljaviya/simple-stock-prediction",
@@ -114,13 +114,13 @@ export const navItems = [
     {
       id: 1,
       title: "Junior Application Developer - VGES Pvt Ltd",
-      desc: "Focused on backend development using Vue.js and Flutter, delivering responsive web solutions.",
+      desc: "Developed scalable applications using Vue.js and Flutter, delivering efficient solutions to meet client requirements.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Office Admin - MTCC590",
+      title: "Office Admin - The Wellington",
       desc: "Managed administrative tasks and assisted retired residents with technology setups, fostering a helpful and organized environment.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
